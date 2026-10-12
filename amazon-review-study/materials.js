@@ -1,0 +1,670 @@
+window.STUDY_MATERIALS = {
+  "summary": "Customers find the power bank reliable and appreciate its solid build quality and battery life, with one noting it lasts for days. They praise the battery capacity, noting that it matches the advertised capacity, and consider it worth the price. However, the charging speed receives mixed feedback - while some say it charges phones quickly, others find it takes longer than expected. Portability also receives mixed reviews, with some finding it easy to carry for travel, while others find it inconvenient to carry around in daily use.",
+  "reviews": [
+    {
+      "id": 1,
+      "reviewerName": "Michael T.",
+      "rating": 5,
+      "ratingText": "★★★★★",
+      "title": "Actually lasts",
+      "date": "August 18, 2026",
+      "dateText": "Reviewed in the United States on August 18, 2026",
+      "verifiedPurchase": true,
+      "body": [
+        "Bought this for a 4 day work trip because I knew I’d be away from outlets most of the day. Charged it before I left and honestly didn’t need to plug the power bank itself back in until I got home. Used it for my phone a few times and my earbuds once and still had power left.",
+        "My phone charges pretty quick with it too. I usually throw it in my backpack when I travel and forget it’s there until I need it.",
+        "So far no issues at all. Feels solid and not like one of those cheap plastic battery packs."
+      ],
+      "helpfulCount": 3,
+      "helpfulText": "3 people found this helpful"
+    },
+    {
+      "id": 2,
+      "reviewerName": "Amy",
+      "rating": 4,
+      "ratingText": "★★★★☆",
+      "title": "Good battery, phone charging is a little slow",
+      "date": "August 11, 2026",
+      "dateText": "Reviewed in the United States on August 11, 2026",
+      "verifiedPurchase": true,
+      "body": [
+        "The battery itself is great. I can use it for a couple days without worrying about running it down and the amount of power I’m getting seems about right for what was advertised.",
+        "Charging my iPhone is not especially fast though. It gets there, just takes longer than I expected."
+      ],
+      "helpfulCount": null,
+      "helpfulText": null
+    },
+    {
+      "id": 3,
+      "reviewerName": "Rob",
+      "rating": 4,
+      "ratingText": "★★★★☆",
+      "title": "Lots of power, not something I carry all day",
+      "date": "July 22, 2026",
+      "dateText": "Reviewed in the United States on July 22, 2026",
+      "verifiedPurchase": true,
+      "body": [
+        "I’m impressed with how much usable power I’m getting out of this. Charged my phone from low battery twice over the weekend plus topped up my tablet and it still wasn’t dead.",
+        "That said, I mainly leave this in my car or work bag. If I’m just going out with my phone and wallet I don’t really want to bring it with me.",
+        "Still a good purchase."
+      ],
+      "helpfulCount": null,
+      "helpfulText": null
+    },
+    {
+      "id": 4,
+      "reviewerName": "Jenna R.",
+      "rating": 5,
+      "ratingText": "★★★★★",
+      "title": "Solid power bank",
+      "date": "July 25, 2026",
+      "dateText": "Reviewed in the United States on July 25, 2026",
+      "verifiedPurchase": true,
+      "body": [
+        "Feels really well made and has been completely reliable so far. Plug it in, it works. No random disconnecting or anything weird.",
+        "My phone also charges faster than it did with the old battery pack I replaced."
+      ],
+      "helpfulCount": 2,
+      "helpfulText": "2 people found this helpful"
+    },
+    {
+      "id": 5,
+      "reviewerName": "Jason",
+      "rating": 4,
+      "ratingText": "★★★★☆",
+      "title": "Does the job, just takes its time",
+      "date": "July 15, 2026",
+      "dateText": "Reviewed in the United States on July 15, 2026",
+      "verifiedPurchase": true,
+      "body": [
+        "Good charger. My phone definitely charges, just not as fast as my wall charger. I usually plug it in while I’m working and let it sit.",
+        "No complaints about the battery itself though. Holds a charge really well."
+      ],
+      "helpfulCount": null,
+      "helpfulText": null
+    },
+    {
+      "id": 6,
+      "reviewerName": "Chris M.",
+      "rating": 5,
+      "ratingText": "★★★★★",
+      "title": "Good for flights and long days",
+      "date": "July 29, 2026",
+      "dateText": "Reviewed in the United States on July 29, 2026",
+      "verifiedPurchase": true,
+      "body": [
+        "Took this through two airports last week and it basically lived in my backpack. Charged my phone during both layovers and again in the Uber after landing.",
+        "Still had plenty of battery left.",
+        "I took this with me on a trip and it was really convenient to carry. It fit easily in my carry-on, and I had no trouble bringing it through the airport and keeping it with me during the trip."
+      ],
+      "helpfulCount": null,
+      "helpfulText": null
+    },
+    {
+      "id": 7,
+      "reviewerName": "Sarah J.",
+      "rating": 4,
+      "ratingText": "★★★★☆",
+      "title": "Good at home, not my favorite to carry",
+      "date": "June 30, 2026",
+      "dateText": "Reviewed in the United States on June 30, 2026",
+      "verifiedPurchase": true,
+      "body": [
+        "I like the power bank itself. Feels sturdy, has been reliable, and gives me plenty of extra battery.",
+        "I mostly keep it at my desk because I don’t find it very convenient to carry around every day. I only take it with me when I know I’ll be gone all day. Still happy with the purchase."
+      ],
+      "helpfulCount": null,
+      "helpfulText": null
+    },
+    {
+      "id": 8,
+      "reviewerName": "D. Parker",
+      "rating": 5,
+      "ratingText": "★★★★★",
+      "title": "Worth it",
+      "date": "August 3, 2026",
+      "dateText": "Reviewed in the United States on August 3, 2026",
+      "verifiedPurchase": true,
+      "body": [
+        "Works every time, battery lasts forever (not literally lol), and the build quality is very good. I got it on sale so for me this was definitely worth the money."
+      ],
+      "helpfulCount": 1,
+      "helpfulText": "One person found this helpful"
+    },
+    {
+      "id": 9,
+      "reviewerName": "Rachel",
+      "rating": 4,
+      "ratingText": "★★★★☆",
+      "title": "Charging could be faster",
+      "date": "June 23, 2026",
+      "dateText": "Reviewed in the United States on June 23, 2026",
+      "verifiedPurchase": true,
+      "body": [
+        "I mostly bought this because I needed enough battery to get through long conference days and on that front it’s been excellent. I used it several times over two days and didn’t come close to draining the whole thing.",
+        "The charging speed to my phone is okay, but I wouldn’t call it fast. I’ve had smaller chargers that top up my phone quicker.",
+        "Not a deal breaker for me because the battery life is what I bought it for."
+      ],
+      "helpfulCount": 1,
+      "helpfulText": "One person found this helpful"
+    },
+    {
+      "id": 10,
+      "reviewerName": "Kelly",
+      "rating": 5,
+      "ratingText": "★★★★★",
+      "title": "Great battery life",
+      "date": "July 18, 2026",
+      "dateText": "Reviewed in the United States on July 18, 2026",
+      "verifiedPurchase": true,
+      "body": [
+        "I charged this and then forgot about it in a drawer for almost two weeks. Pulled it out and it still had most of the charge. That alone makes it better than the last one I owned.",
+        "For the price I’m very happy."
+      ],
+      "helpfulCount": null,
+      "helpfulText": null
+    },
+    {
+      "id": 11,
+      "reviewerName": "Lauren B.",
+      "rating": 5,
+      "ratingText": "★★★★★",
+      "title": "Better than expected",
+      "date": "July 11, 2026",
+      "dateText": "Reviewed in the United States on July 11, 2026",
+      "verifiedPurchase": true,
+      "body": [
+        "I’ve gone through a bunch of portable batteries over the years and this one feels noticeably better made. Nothing rattles, nothing feels loose, and it’s been dependable every time I’ve used it.",
+        "I paid a little more than I originally planned but I think it was worth it."
+      ],
+      "helpfulCount": 4,
+      "helpfulText": "4 people found this helpful"
+    },
+    {
+      "id": 12,
+      "reviewerName": "Mark H.",
+      "rating": 5,
+      "ratingText": "★★★★★",
+      "title": "Capacity seems honest",
+      "date": "July 7, 2026",
+      "dateText": "Reviewed in the United States on July 7, 2026",
+      "verifiedPurchase": true,
+      "body": [
+        "One of my biggest problems with power banks is the capacity number never seems to match real life. This one is pretty close to what I expected.",
+        "I charged my phone a few times on a camping weekend and still came home with battery left in the bank.",
+        "Would buy again."
+      ],
+      "helpfulCount": 2,
+      "helpfulText": "2 people found this helpful"
+    },
+    {
+      "id": 13,
+      "reviewerName": "techdad72",
+      "rating": 5,
+      "ratingText": "★★★★★",
+      "title": "Fast enough for me",
+      "date": "July 4, 2026",
+      "dateText": "Reviewed in the United States on July 4, 2026",
+      "verifiedPurchase": true,
+      "body": [
+        "Used this with my Android while watching YouTube and the phone was still gaining battery pretty quickly. That’s all I really needed.",
+        "Battery pack has also been sitting in my desk for days at a time without losing much charge."
+      ],
+      "helpfulCount": null,
+      "helpfulText": null
+    },
+    {
+      "id": 14,
+      "reviewerName": "Eric S.",
+      "rating": 5,
+      "ratingText": "★★★★★",
+      "title": "Travel essential now",
+      "date": "June 20, 2026",
+      "dateText": "Reviewed in the United States on June 20, 2026",
+      "verifiedPurchase": true,
+      "body": [
+        "I bought this right before a trip to Chicago and it ended up being one of those things I used way more than expected.",
+        "Maps, pictures, Uber, airport boarding pass, all of that destroys my phone battery when I travel. I kept this in my backpack and plugged in whenever I got low. Easy.",
+        "Still had enough power at the end of the trip that I didn’t recharge the bank until I got home.",
+        "Worth the money for me."
+      ],
+      "helpfulCount": 3,
+      "helpfulText": "3 people found this helpful"
+    },
+    {
+      "id": 15,
+      "reviewerName": "Kevin L.",
+      "rating": 5,
+      "ratingText": "★★★★★",
+      "title": "Very solid",
+      "date": "June 16, 2026",
+      "dateText": "Reviewed in the United States on June 16, 2026",
+      "verifiedPurchase": true,
+      "body": [
+        "This feels like a quality product. Been using it about a month and it has worked every time.",
+        "Phone charging is quick enough that I usually unplug before the phone is even full."
+      ],
+      "helpfulCount": null,
+      "helpfulText": null
+    },
+    {
+      "id": 16,
+      "reviewerName": "Madison",
+      "rating": 5,
+      "ratingText": "★★★★★",
+      "title": "Battery lasts days",
+      "date": "June 12, 2026",
+      "dateText": "Reviewed in the United States on June 12, 2026",
+      "verifiedPurchase": true,
+      "body": [
+        "I don’t use it constantly, but that’s kind of why I like it. I can charge the power bank, leave it in my work bag, and days later it’s still ready when I need it.",
+        "I’ve had cheaper ones slowly drain themselves just sitting there.",
+        "This one has been great."
+      ],
+      "helpfulCount": 2,
+      "helpfulText": "2 people found this helpful"
+    },
+    {
+      "id": 17,
+      "reviewerName": "Joe P.",
+      "rating": 4,
+      "ratingText": "★★★★☆",
+      "title": "Powerful but I usually leave it in the car",
+      "date": "June 9, 2026",
+      "dateText": "Reviewed in the United States on June 9, 2026",
+      "verifiedPurchase": true,
+      "body": [
+        "The actual battery capacity seems pretty legit. I can get several top ups out of it and I haven’t had that feeling of “where did all the power go?”",
+        "My only issue is portability. I usually keep it in the car rather than carry it around all day. For daily use, I just don’t find it very convenient to bring with me."
+      ],
+      "helpfulCount": null,
+      "helpfulText": null
+    },
+    {
+      "id": 18,
+      "reviewerName": "Linda",
+      "rating": 4,
+      "ratingText": "★★★★☆",
+      "title": "Slow but dependable",
+      "date": "June 5, 2026",
+      "dateText": "Reviewed in the United States on June 5, 2026",
+      "verifiedPurchase": true,
+      "body": [
+        "My phone takes a while to charge with this, definitely longer than I expected.",
+        "Other than that I really like it. It’s never failed on me and the battery lasts a long time between charges."
+      ],
+      "helpfulCount": null,
+      "helpfulText": null
+    },
+    {
+      "id": 19,
+      "reviewerName": "A. Johnson",
+      "rating": 5,
+      "ratingText": "★★★★★",
+      "title": "Money well spent",
+      "date": "June 1, 2026",
+      "dateText": "Reviewed in the United States on June 1, 2026",
+      "verifiedPurchase": true,
+      "body": [
+        "I paid full price and still think it was worth it. Build feels excellent and it does exactly what I bought it to do.",
+        "No drama, no connection problems, no surprises. For everyday use, though, I usually leave it at home because I don’t find it very convenient to carry around."
+      ],
+      "helpfulCount": null,
+      "helpfulText": null
+    },
+    {
+      "id": 20,
+      "reviewerName": "Mike",
+      "rating": 5,
+      "ratingText": "★★★★★",
+      "title": "Great buy",
+      "date": "June 27, 2026",
+      "dateText": "Reviewed in the United States on June 27, 2026",
+      "verifiedPurchase": true,
+      "body": [
+        "Good battery. Good quality. Lasts a long time. Price was fair. No issues yet."
+      ],
+      "helpfulCount": null,
+      "helpfulText": null
+    },
+    {
+      "id": 21,
+      "reviewerName": "Brandon",
+      "rating": 5,
+      "ratingText": "★★★★★",
+      "title": "Took it everywhere in New York",
+      "date": "May 28, 2026",
+      "dateText": "Reviewed in the United States on May 28, 2026",
+      "verifiedPurchase": true,
+      "body": [
+        "Used this on a 5 day NYC trip where my phone was basically running Google Maps and the camera all day.",
+        "I threw the power bank in my backpack every morning and used it whenever I stopped for food or coffee. Never felt like carrying it was a hassle.",
+        "The battery itself lasted way longer than I expected. I didn’t recharge it every night and still never ran out.",
+        "Phone charging was also pretty quick. I could plug in at lunch and get a useful amount of battery back before we left.",
+        "Very happy with this one."
+      ],
+      "helpfulCount": 5,
+      "helpfulText": "5 people found this helpful"
+    },
+    {
+      "id": 22,
+      "reviewerName": "Emily K.",
+      "rating": 4,
+      "ratingText": "★★★★☆",
+      "title": "Good power bank, average charging speed",
+      "date": "May 24, 2026",
+      "dateText": "Reviewed in the United States on May 24, 2026",
+      "verifiedPurchase": true,
+      "body": [
+        "The battery capacity is probably the best part. I can charge my phone multiple times before this thing needs a recharge, which feels about right based on the product description.",
+        "Charging speed is nothing special though. Works fine but don’t expect your phone to jump from 20 to 80 in no time."
+      ],
+      "helpfulCount": null,
+      "helpfulText": null
+    },
+    {
+      "id": 23,
+      "reviewerName": "Josh",
+      "rating": 5,
+      "ratingText": "★★★★★",
+      "title": "Reliable",
+      "date": "May 21, 2026",
+      "dateText": "Reviewed in the United States on May 21, 2026",
+      "verifiedPurchase": true,
+      "body": [
+        "Had it for a couple months. Still works. Still holds a charge. Can’t really ask for more."
+      ],
+      "helpfulCount": null,
+      "helpfulText": null
+    },
+    {
+      "id": 24,
+      "reviewerName": "Mary",
+      "rating": 5,
+      "ratingText": "★★★★★",
+      "title": "Great for my work bag",
+      "date": "May 17, 2026",
+      "dateText": "Reviewed in the United States on May 17, 2026",
+      "verifiedPurchase": true,
+      "body": [
+        "This basically lives in my work bag now. I commute by train and there are days I’m away from an outlet for 10+ hours.",
+        "It’s been really convenient having enough battery with me that I don’t have to hunt for a charger.",
+        "Feels well made too."
+      ],
+      "helpfulCount": 1,
+      "helpfulText": "One person found this helpful"
+    },
+    {
+      "id": 25,
+      "reviewerName": "R. Hernandez",
+      "rating": 5,
+      "ratingText": "★★★★★",
+      "title": "Actually gets close to the rated capacity",
+      "date": "May 13, 2026",
+      "dateText": "Reviewed in the United States on May 13, 2026",
+      "verifiedPurchase": true,
+      "body": [
+        "I’m one of those people who gets annoyed when a battery says it has a huge capacity and then you barely get two charges out of it.",
+        "This one has been much closer to what I expected. I used it to charge my phone twice, helped my wife top up hers, and still had charge left.",
+        "The phone also charges pretty fast.",
+        "Price wasn’t bad either considering how much battery you get."
+      ],
+      "helpfulCount": 3,
+      "helpfulText": "3 people found this helpful"
+    },
+    {
+      "id": 26,
+      "reviewerName": "Kelsey",
+      "rating": 4,
+      "ratingText": "★★★★☆",
+      "title": "Good battery but mostly stays at the hotel",
+      "date": "May 9, 2026",
+      "dateText": "Reviewed in the United States on May 9, 2026",
+      "verifiedPurchase": true,
+      "body": [
+        "Bought this for travel. The battery life is excellent and it has been totally reliable.",
+        "Funny thing is I ended up using it mostly at the hotel or airport instead of carrying it around sightseeing all day. For me it’s more of a “bring it on the trip” item than a “carry it everywhere” item.",
+        "Still useful, just not as portable in practice as I thought."
+      ],
+      "helpfulCount": null,
+      "helpfulText": null
+    },
+    {
+      "id": 27,
+      "reviewerName": "David",
+      "rating": 5,
+      "ratingText": "★★★★★",
+      "title": "Charges my phone pretty quick",
+      "date": "May 5, 2026",
+      "dateText": "Reviewed in the United States on May 5, 2026",
+      "verifiedPurchase": true,
+      "body": [
+        "Plugged my phone in around 25% while I was eating dinner and it was well over halfway charged by the time I finished.",
+        "That’s plenty fast for what I need.",
+        "Power bank itself seems very solid too."
+      ],
+      "helpfulCount": null,
+      "helpfulText": null
+    },
+    {
+      "id": 28,
+      "reviewerName": "Tasha",
+      "rating": 5,
+      "ratingText": "★★★★★",
+      "title": "Feels premium",
+      "date": "April 30, 2026",
+      "dateText": "Reviewed in the United States on April 30, 2026",
+      "verifiedPurchase": true,
+      "body": [
+        "Build quality surprised me. It has a really solid feel and doesn’t seem cheaply put together.",
+        "I’ve used it a lot over the past month and no issues at all.",
+        "Would recommend."
+      ],
+      "helpfulCount": 2,
+      "helpfulText": "2 people found this helpful"
+    },
+    {
+      "id": 29,
+      "reviewerName": "Steve W.",
+      "rating": 4,
+      "ratingText": "★★★★☆",
+      "title": "Takes longer than my wall charger",
+      "date": "April 26, 2026",
+      "dateText": "Reviewed in the United States on April 26, 2026",
+      "verifiedPurchase": true,
+      "body": [
+        "I know a power bank isn’t always going to match a wall charger, but this is slower than I expected.",
+        "Not unusably slow, just something I noticed.",
+        "The battery pack itself is great though. Lasts a long time and I’m getting a lot of usable power out of it."
+      ],
+      "helpfulCount": null,
+      "helpfulText": null
+    },
+    {
+      "id": 30,
+      "reviewerName": "Monica",
+      "rating": 5,
+      "ratingText": "★★★★★",
+      "title": "Good value",
+      "date": "April 21, 2026",
+      "dateText": "Reviewed in the United States on April 21, 2026",
+      "verifiedPurchase": true,
+      "body": [
+        "Got mine during a sale but honestly I’d probably still buy it at regular price. Battery lasts a long time, it’s worked reliably so far, and overall it feels like a good value.",
+        "My only complaint is the charging speed. My phone takes a little longer to charge than I expected, especially when I just need a quick top-up before heading out. Other than that, I’m really happy with it."
+      ],
+      "helpfulCount": null,
+      "helpfulText": null
+    },
+    {
+      "id": 31,
+      "reviewerName": "Nate",
+      "rating": 5,
+      "ratingText": "★★★★★",
+      "title": "One of the better power banks I’ve owned",
+      "date": "April 16, 2026",
+      "dateText": "Reviewed in the United States on April 16, 2026",
+      "verifiedPurchase": true,
+      "body": [
+        "I’ve had probably 6 or 7 portable batteries over the years. Some were cheap, some were supposedly “premium,” and most of them ended up annoying me for one reason or another.",
+        "This one has been boring in the best possible way. It works every time.",
+        "I charged it before a long weekend and used it for my phone, Bluetooth headphones, and my wife’s phone. By Sunday night it still wasn’t empty. So whatever the exact usable capacity is, it feels pretty close to what I expected from the listing.",
+        "My phone charges quickly enough that I’ve stopped bringing a separate wall brick on short outings.",
+        "I thought I’d take it everywhere, but most of the time I leave it behind unless I know I’m really going to need the extra power. For normal day-to-day use, I don’t find it very convenient to carry around.",
+        "Build quality is excellent. Nothing loose, nothing creaky.",
+        "Would buy another one."
+      ],
+      "helpfulCount": 6,
+      "helpfulText": "6 people found this helpful"
+    },
+    {
+      "id": 32,
+      "reviewerName": "Hannah",
+      "rating": 5,
+      "ratingText": "★★★★★",
+      "title": "Still charged after sitting for a week",
+      "date": "April 11, 2026",
+      "dateText": "Reviewed in the United States on April 11, 2026",
+      "verifiedPurchase": true,
+      "body": [
+        "Charged this, forgot about it, found it again a week later and it still had almost all its battery.",
+        "That sold me."
+      ],
+      "helpfulCount": null,
+      "helpfulText": null
+    },
+    {
+      "id": 33,
+      "reviewerName": "Ben C.",
+      "rating": 4,
+      "ratingText": "★★★★☆",
+      "title": "Not fast, but it works",
+      "date": "April 7, 2026",
+      "dateText": "Reviewed in the United States on April 7, 2026",
+      "verifiedPurchase": true,
+      "body": [
+        "It charges my phone slower than I’d like. I usually plug it in during meetings or while I’m at my desk because it’s not really a quick 20 minute top-up type of charger for me.",
+        "But it has been reliable, and the battery itself seems to last forever."
+      ],
+      "helpfulCount": null,
+      "helpfulText": null
+    },
+    {
+      "id": 34,
+      "reviewerName": "Nicole S.",
+      "rating": 5,
+      "ratingText": "★★★★★",
+      "title": "Great for road trips",
+      "date": "April 2, 2026",
+      "dateText": "Reviewed in the United States on April 2, 2026",
+      "verifiedPurchase": true,
+      "body": [
+        "Used this on a family road trip where everybody suddenly needed power at the same time 🙃",
+        "I kept it in the bag between the seats and we used it throughout the day. Super convenient compared with trying to rotate people through the car charger.",
+        "Still had battery left that night."
+      ],
+      "helpfulCount": 2,
+      "helpfulText": "2 people found this helpful"
+    },
+    {
+      "id": 35,
+      "reviewerName": "Alex",
+      "rating": 5,
+      "ratingText": "★★★★★",
+      "title": "Seems accurate, not one of those fake capacity banks",
+      "date": "March 28, 2026",
+      "dateText": "Reviewed in the United States on March 28, 2026",
+      "verifiedPurchase": true,
+      "body": [
+        "This is the first high-capacity bank I’ve bought in a while where the numbers don’t feel completely made up.",
+        "I’m getting multiple phone charges from it like I expected.",
+        "Feels like a quality unit too."
+      ],
+      "helpfulCount": null,
+      "helpfulText": null
+    },
+    {
+      "id": 36,
+      "reviewerName": "Brian D.",
+      "rating": 4,
+      "ratingText": "★★★★☆",
+      "title": "Good battery, stays on my desk most of the time",
+      "date": "March 22, 2026",
+      "dateText": "Reviewed in the United States on March 22, 2026",
+      "verifiedPurchase": true,
+      "body": [
+        "Excellent battery life and it’s been very dependable.",
+        "I originally bought it thinking I’d take it everywhere, but in reality it mostly stays on my desk. For everyday use, I don’t find it very convenient to carry around.",
+        "For the price though, still a good buy."
+      ],
+      "helpfulCount": null,
+      "helpfulText": null
+    },
+    {
+      "id": 37,
+      "reviewerName": "Patricia",
+      "rating": 5,
+      "ratingText": "★★★★★",
+      "title": "Quick charging and no issues",
+      "date": "March 17, 2026",
+      "dateText": "Reviewed in the United States on March 17, 2026",
+      "verifiedPurchase": true,
+      "body": [
+        "I’ve had no problems at all with this. My phone charges quickly and the power bank keeps its own charge for a long time.",
+        "Pretty simple. It works."
+      ],
+      "helpfulCount": null,
+      "helpfulText": null
+    },
+    {
+      "id": 38,
+      "reviewerName": "Sam R.",
+      "rating": 5,
+      "ratingText": "★★★★★",
+      "title": "Built well",
+      "date": "March 12, 2026",
+      "dateText": "Reviewed in the United States on March 12, 2026",
+      "verifiedPurchase": true,
+      "body": [
+        "Feels sturdy, works every time, and I don’t feel like I need to baby it.",
+        "That’s pretty much what I wanted."
+      ],
+      "helpfulCount": null,
+      "helpfulText": null
+    },
+    {
+      "id": 39,
+      "reviewerName": "Melissa",
+      "rating": 4,
+      "ratingText": "★★★★☆",
+      "title": "Battery is great, charging speed is meh",
+      "date": "March 7, 2026",
+      "dateText": "Reviewed in the United States on March 7, 2026",
+      "verifiedPurchase": true,
+      "body": [
+        "I’m very happy with how long this lasts. I can use it several times before I have to recharge the bank and the capacity seems consistent with what was advertised.",
+        "The part I’m less impressed with is how fast it charges my phone. It’s fine if I have time. If I need a quick boost before leaving the house, I usually use my regular charger instead.",
+        "Still glad I bought it."
+      ],
+      "helpfulCount": 1,
+      "helpfulText": "One person found this helpful"
+    },
+    {
+      "id": 40,
+      "reviewerName": "JMK",
+      "rating": 5,
+      "ratingText": "★★★★★",
+      "title": "Good purchase",
+      "date": "March 2, 2026",
+      "dateText": "Reviewed in the United States on March 2, 2026",
+      "verifiedPurchase": true,
+      "body": [
+        "Reliable, good battery life, and worth what I paid.",
+        "I keep it in my backpack and use it all the time.",
+        "Would buy again."
+      ],
+      "helpfulCount": null,
+      "helpfulText": null
+    }
+  ]
+};
